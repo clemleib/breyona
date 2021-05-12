@@ -1,0 +1,93 @@
+{
+  "specialpoker": {
+    "rakeback1": "30%",
+    "rakeback2": "",
+    "rakeback3": "",
+    "bonus": ""
+  },
+  "swcpoker": {
+    "rakeback1": "Krill: 5-50%",
+    "rakeback2": "15%",
+    "rakeback3": "",
+    "bonus": "Leaderboard"
+  },
+  "pokeravengers": {
+    "rakeback1": "57.5%",
+    "rakeback2": "",
+    "rakeback3": "",
+    "bonus": ""
+  },
+  "j88poker": {
+    "bonus": "",
+    "rakeback1": "50%",
+    "rakeback2": "10%",
+    "rakeback3": ""
+  },
+  "betonline": {
+    "bonus": "100%",
+    "rakeback1": "12.50%",
+    "rakeback2": "5% VIP",
+    "rakeback3": ""
+  },
+  "ggpoker": {
+    "bonus": "200%",
+    "rakeback1": "10-100%",
+    "rakeback2": "17.5% MGR",
+    "rakeback3": ""
+  },
+  "intertops": {
+    "bonus": "100%",
+    "rakeback1": "36%",
+    "rakeback2": "5% MGR",
+    "rakeback3": ""
+  },
+  "nitrogenpoker": {
+    "bonus": "",
+    "rakeback1": "2-50%",
+    "rakeback2": "3-275mBTC/m",
+    "rakeback3": ""
+  },
+  "juicystakes": {
+    "bonus": "100%",
+    "rakeback1": "36%",
+    "rakeback2": "5% MGR",
+    "rakeback3": ""
+  },
+  "swc": {
+    "bonus": "",
+    "rakeback1": "5-50%",
+    "rakeback2": "17.5% MGR",
+    "rakeback3": ""
+  },
+  "5dimespoker": {
+    "bonus": "$520",
+    "rakeback1": "35%",
+    "rakeback2": "12.5%",
+    "rakeback3": ""
+  
+  },
+  "cryptopokerclub": {
+    "bonus": "100% (Instant Release)",
+    "rakeback1": "5-50%",
+    "rakeback2": "17.5%",
+    "rakeback3": "Rake Race"
+  },
+  "upoker": {
+    "bonus": "",
+    "rakeback1": "40%",
+    "rakeback2": "",
+    "rakeback3": ""
+  },
+  "ppp1": {
+    "bonus": "",
+    "rakeback1": "50%",
+    "rakeback2": "",
+    "rakeback3": ""
+  },
+  "ppp2": {
+    "bonus": "",
+    "rakeback1": "45%",
+    "rakeback2": "",
+    "rakeback3": ""
+  }
+}

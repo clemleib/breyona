@@ -1,0 +1,524 @@
+/* Media Query For Small Devices */
+@media (max-width: 420px) and (min-width: 320px){
+	a{
+		font-size: 12px;
+	}
+	p{
+		font-size: 14px;
+	}
+	h1{
+		font-size: 22px;
+	}
+	h2 {
+    font-size: 20px;
+	}
+	h3{
+		font-size: 18px;
+	}
+	h4{
+		font-size: 12px;
+	}
+
+.sec-padding{
+	padding: 40px 0px;
+}
+.cmn-btn,.cmn-btn1{
+	padding: 7px 20px;
+}
+#section-4 .text-right{
+	text-align:center !important;
+}
+.banner-man {
+    top: 15%;
+    right: 8%;
+}
+.banner-man img{
+height: 250px;
+}
+#banner p{
+	max-width: 55%;
+}
+#banner .cmn-btn1 {
+	padding: 5px 10px;
+	font-size: 11px;
+}
+#banner .cmn-btn1 img {
+    margin: 3px 3px 5px 0px;
+    height: 15px;
+}
+.watch-btn {
+	padding: 10px 0px;
+	display: block;
+	margin-left: -15px;
+}
+.banner-fruits {
+    bottom: 0px;
+    right: -2%;
+}
+.banner-fruits img{
+height: 72px;
+}
+#banner .sec-button{
+	padding: 30px 0px 0px;
+}
+.sec-button {
+    padding: 30px 0px 30px;
+}
+.desk-services > li{
+	width: 90%;
+}
+.desk-services{
+	padding-bottom: 40px;
+}
+.left-mob{
+	padding: 40px 10px ;
+	text-align: center;
+}
+.asistant-right{
+	padding: 60px;
+}
+.app-link{
+	display: block;
+}
+.app-link li{
+	display: inline-block;
+}
+.app-link li img{
+	height: 40px;
+}
+#section-3 .right-1{
+   background: #f7f7f7;
+    background-image: url(../images/screen.png);
+    background-size: 100%;
+    padding: 122px;
+}
+.left-1 {
+    padding: 20px;
+}
+.man img{
+	height: 250px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.map-before{
+	padding: 30px 44px;
+	top: 70px;
+}
+.footer-widget{
+	text-align: center;
+	padding: 15px;
+}
+.footer-widget h3{
+	font-size: 18px;
+}
+.footer-widget ul li{
+	padding: 3px 0px;
+	font-size: 14px;
+}
+.footer-logo {
+    padding: 50px 0px 25px;
+}
+.footer-logo img{
+   width: 100px;
+}
+.navbar-brand img{
+	width: 100px;
+}
+/*Under */
+
+
+.navbar-brand{
+	position: absolute;
+	left: 35%;
+	top: 10px;
+}	
+.lang{
+	display: none;
+}
+#footer .col-md-3{
+	width: 50%;
+}
+.sec-padding{
+	padding: 50px 0px;
+}
+/*.cmn-btn,.cmn-btn1{
+	padding: 5px 15px;
+	float: left;
+	margin-left: 8%;
+	margin-right: -20px;
+}*/
+/*#section-4 .cmn-btn, #workforce .cmn-btn{
+    padding: 5px 15px;
+    float: none;
+    margin: 0 auto;
+}*/
+/*#section-4 .text-right{
+	text-align:center !important;
+}*/
+/*.banner-man {
+    top: -1%;
+    right: 8%;
+}
+.banner-man img{
+height: 290px;
+}
+#banner p{
+	max-width: 55%;
+}
+#banner .cmn-btn1 {
+	padding: 7px 12px;
+	font-size: 12px;
+	margin-left: 0%;
+	float: none;
+}*/
+/*#banner .cmn-btn1 img {
+    margin: 3px 3px 5px 0px;
+    height: 15px;
+}*/
+#banner .watch-btn{
+	margin-top: 10px;
+}
+.watch-btn {
+	padding: 5px 0px;
+	display: block;
+	margin-left: -15px;
+}
+/*.banner-fruits {
+    bottom: -50px;
+    right: 0px;
+}
+.banner-fruits img{
+height: 86px;
+}
+#banner .sec-button{
+	padding: 30px 0px 0px;
+}
+.sec-button {
+    padding: 30px 0px 30px;
+}
+.desk-services > li{
+	width: 47.5%;
+	margin: 5px 3px;
+	padding: 4px 0px 7px 30px;
+}
+.desk-services > li > a {
+    font-size: 12px;
+}
+.desk-services{
+	padding-bottom: 40px;
+}
+.left-mob{
+	padding: 40px 10px ;
+	text-align: center;
+}
+.asistant-right{
+	padding: 60px;
+}
+.expen img {
+	height: 86px;
+	margin-right: 90px;
+	margin-top: 0px;
+}
+.message img {
+	top: 5px;
+	height: 60px;
+	margin-left: 5%;
+}
+.app-link{
+	display: block;
+}
+.app-link li{
+	display: inline-block;
+}
+.app-link li img{
+	height: 40px;
+}
+#section-3 .right-1{
+   background: #f7f7f7;
+    background-image: url(../images/screen.png);
+    background-size: 100%;
+	padding: 160px;
+	background-repeat: no-repeat;
+}
+.left-1 {
+    padding: 20px;
+}
+.man img{
+	height: 250px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}*/
+/*.map-before{
+	padding: 30px 60px;
+	top: 70px;
+	right: 18.5%;
+}*/
+.footer-widget{
+	text-align: left;
+	padding: 15px;
+}
+.footer-widget h3{
+	font-size: 18px;
+}
+.footer-widget ul li{
+	padding: 3px 0px;
+	font-size: 14px;
+}
+.footer-logo {
+    padding: 50px 0px 25px;
+}
+
+
+
+}
+
+/*End 320px device*/
+
+
+/* Media Query For Tablet Devices */
+@media (max-width: 575px) and (min-width: 421px){
+	a{
+		font-size: 14px;
+	}
+	p{
+		font-size: 12px;
+	}
+	h1{
+		font-size: 28px;
+	}
+	h2 {
+    font-size: 20px;
+	}
+	h3{
+		font-size: 22px;
+	}
+	h4{
+		font-size: 18px;
+	}
+
+.navbar-brand{
+	position: absolute;
+	left: 35%;
+	top: 10px;
+}	
+.lang{
+	display: none;
+}
+#footer .col-md-3{
+	width: 50%;
+}
+.sec-padding{
+	padding: 50px 0px;
+}
+.cmn-btn,.cmn-btn1{
+	padding: 5px 15px;
+	float: left;
+	margin-left: 8%;
+	margin-right: -20px;
+}
+#section-4 .cmn-btn, #workforce .cmn-btn{
+    padding: 5px 15px;
+    float: none;
+    margin: 0 auto;
+}
+#section-4 .text-right{
+	text-align:center !important;
+}
+.banner-man {
+    top: -1%;
+    right: 8%;
+}
+.banner-man img{
+height: 290px;
+}
+#banner p{
+	max-width: 55%;
+}
+#banner .cmn-btn1 {
+	padding: 7px 12px;
+	font-size: 12px;
+	margin-left: 0%;
+	float: none;
+}
+#banner .cmn-btn1 img {
+    margin: 3px 3px 5px 0px;
+    height: 15px;
+}
+#banner .watch-btn{
+	margin-top: 10px;
+}
+.watch-btn {
+	padding: 5px 0px;
+	display: block;
+	margin-left: -15px;
+}
+.banner-fruits {
+    bottom: -50px;
+    right: 0px;
+}
+.banner-fruits img{
+height: 86px;
+}
+#banner .sec-button{
+	padding: 30px 0px 0px;
+}
+.sec-button {
+    padding: 30px 0px 30px;
+}
+.desk-services > li{
+	width: 47.5%;
+	margin: 5px 3px;
+	padding: 4px 0px 7px 30px;
+}
+.desk-services > li > a {
+    font-size: 12px;
+}
+.desk-services{
+	padding-bottom: 40px;
+}
+.left-mob{
+	padding: 40px 10px ;
+	text-align: center;
+}
+.asistant-right{
+	padding: 80px;
+}
+.app-link{
+	display: block;
+}
+.app-link li{
+	display: inline-block;
+}
+.app-link li img{
+	height: 40px;
+}
+#section-3 .right-1{
+   background: #f7f7f7;
+    background-image: url(../images/screen.png);
+    background-size: 100%;
+	padding: 160px;
+	background-repeat: no-repeat;
+}
+.left-1 {
+    padding: 20px;
+}
+.man img{
+	height: 250px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.map-before{
+	padding: 30px 60px;
+	top: 70px;
+	right: 18.5%;
+}
+.footer-widget{
+	text-align: left;
+	padding: 15px;
+}
+.footer-widget h3{
+	font-size: 18px;
+}
+.footer-widget ul li{
+	padding: 3px 0px;
+	font-size: 14px;
+}
+.footer-logo {
+    padding: 50px 0px 25px;
+}
+
+
+			}/*End 575px device*/
+
+@media (max-width: 767px) and (min-width: 576px){
+	#banner .cmn-btn1 {
+    padding: 10px 13px;
+    font-size: 13px;
+}
+#banner h2 {
+    font-size: 26px;
+}
+.banner-man {
+    top: 0%;
+    right: 2%;
+}
+.banner-man img {
+    height: 290px;
+}
+.banner-fruits {
+    right: -8%;
+    bottom: -32%;
+}
+.banner-fruits img {
+    height: 120px;
+}
+.watch-btn {
+    padding: 0px 0px;
+}
+.sec-button .fa {
+    padding: 0px 5px;
+    font-size: 20px;
+}
+
+.desk-services > li{
+	width: 47.5%;
+	margin: 5px 3px;
+	padding: 4px 0px 7px 30px;
+}
+.desk-services > li > a {
+    font-size: 12px;
+}
+.desk-services{
+	padding-bottom: 40px;
+}
+.left-mob{
+	padding: 40px 10px ;
+	text-align: center;
+}
+.asistant-right{
+	padding: 60px;
+}
+.app-link{
+	display: block;
+}
+.app-link li{
+	display: inline-block;
+}
+.app-link li img{
+	height: 40px;
+}
+#section-3 .right-1{
+   background: #f7f7f7;
+    background-image: url(../images/screen.png);
+    background-size: 100%;
+	padding: 220px;
+	background-repeat: no-repeat;
+}
+.left-1 {
+    padding: 20px;
+}
+.man img{
+	height: 250px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.map-before{
+	padding: 30px 60px;
+	top: 70px;
+	right: 22%;
+}
+.footer-widget{
+	text-align: left;
+	padding: 15px;
+}
+.footer-widget h3{
+	font-size: 18px;
+}
+.footer-widget ul li{
+	padding: 3px 0px;
+	font-size: 14px;
+}
+.footer-logo {
+    padding: 50px 0px 25px;
+}
+}

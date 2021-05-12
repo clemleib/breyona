@@ -1,0 +1,41 @@
+
+.lightboxContain {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.lightboxContain .indLightbox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 56%;
+  height: 62%;
+}
+ @media screen and (max-height: 600px) {
+
+.lightboxContain .indLightbox { height: 90%; }
+}
+
+.lightboxContain iframe {
+  border: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.lightboxContain img {
+  float: none;
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=lightbox.css.map */
